@@ -492,11 +492,11 @@ main {
     display: block;
 	font-family: 'Lato', sans-serif;
 	position: absolute;
-	bottom: 0px;
+	bottom: -10px;
     left: 0;
     color:#45415c;
 	width: 100%;
-    margin:0;
+    margin: 0px;
 	padding: 2px;
 }
 
